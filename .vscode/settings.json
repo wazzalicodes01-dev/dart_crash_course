@@ -1,0 +1,11 @@
+{
+  "editor.formatOnSave": true,
+  "workbench.colorTheme": "Default High Contrast",
+  "editor.fontVariations": true,
+  "editor.fontFamily": "'Source Code Pro', monospace",
+  "terminal.integrated.fontFamily": "Source Code Pro",
+  "apc.parts.font.family": {
+    "sidebar": "Source Code Pro"
+  },
+  "debug.console.fontFamily": "Source Code Pro"
+}
